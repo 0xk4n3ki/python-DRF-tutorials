@@ -9,3 +9,16 @@
 5. [Relationships & Hyperlinked APIs](https://www.django-rest-framework.org/tutorial/5-relationships-and-hyperlinked-apis/)
 
 6. [ViewSets & Routers](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/)
+
+
+### Screenshots
+
+<img alt="home" src="./images/home.png">
+
+<img alt="snippets" src="./images/snippets.png">
+
+<img alt="instance" src="./images/instance.png">
+
+<img alt="highlight" src="./images/highlight.png">
+
+<img alt="users" src="./images/users.png">
